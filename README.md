@@ -19,7 +19,7 @@
 
 #### PURPOSE
 
-It is estimated that 7% of all men are affected by infertility[source](https://www.fertilityfamily.co.uk/blog/how-common-is-male-infertility-everything-you-need-to-know/#:~:text=Male%20Infertility%20Statistics%3A,men%20are%20affected%20by%20infertility). With a total male population of 3.97billion, that means that a total of 277,900,000million males are either infertile or have fertility issues. A few times this could be natural, but alot of the times there are various causes of infertility in men which include: sexually transmitted infections, smoking habit, alcohol consumption intake etc.
+It is estimated that 7% of all men are affected by infertility [source](https://www.fertilityfamily.co.uk/blog/how-common-is-male-infertility-everything-you-need-to-know/#:~:text=Male%20Infertility%20Statistics%3A,men%20are%20affected%20by%20infertility). With a total male population of 3.97billion, that means that a total of 277,900,000million males are either infertile or have fertility issues. A few times this could be natural, but alot of the times there are various causes of infertility in men which include: sexually transmitted infections, smoking habit, alcohol consumption intake etc.
 
 ***SEEDS*** can easily diagnose if a man has fertility issues or not through a series of questions which are then inputed into a Machine Learning model classifier and with an accuracy of 92%, tell if a man has fertility issues or not.  
 
