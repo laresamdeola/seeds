@@ -33,7 +33,7 @@ It is estimated that 7% of all men are affected by infertility [source](https://
 ![tools1](https://img.shields.io/badge/-flask-red)
 ![tools2](https://img.shields.io/badge/-python-red)
 
-The site was built using Python and the Flask Framework. The model for predicting salaries was built on Google Colab whereby a yaml file was created, then added to the backend of the site. The form input captures the user's data, which is processed by the model and then a classification:
+The site was built using Python and the Flask Framework. The model for predicting the fertility outcome was built on Google Colab whereby a yaml file was created, then added to the backend of the site. The form input captures the user's data, which is processed by the model and then a classification:
 
 - [x] Your fertility is normal - for the negative class.
 - [ ] Your fertility needs to be checked - for the positive class. 
